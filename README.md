@@ -26,7 +26,7 @@
 I'm always open to internships, collaborations, or just tech talk!
 
 - 📧 Email: dayanandrei114@gmail.com
-- 🌐 LinkedIn/GitHub: [add links here if available]
+- 🌐 LinkedIn/GitHub: www.linkedin.com/in/jowell-andrei-dayan-2b396436b
 
 ---
 
