@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi
 
-<!--
-**d0zxc/d0zxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm **Jowell Andrei N. Dayan**, a 4th-year BS Computer Science student at **Colegio de San Juan de Letran Calamba**. Passionate about coding, solving real-world problems, and continuously learning new technologies.
 
-Here are some ideas to get you started:
+## 💻 Projects & Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Web and software development
+- 🔄 SAP ABAP and systems programming
+- 📊 Academic tools (grade calculators, fuel efficiency computations)
+- 🧾 Document automation (resumes, formal letters, etc.)
+
+## 🎯 Goals
+
+- ✅ Complete my On-the-Job Training (OJT)
+- 🧠 Expand my programming skills and portfolio
+- 🤝 Collaborate on open-source or academic projects
+
+## 🛠 Skills
+
+- Programming Languages: Python, Java, ABAP
+- Tools: Visual Studio, Google Workspace, Git
+- Soft Skills: Technical writing, team collaboration, problem-solving
+
+## 📫 Let's Connect
+
+I'm always open to internships, collaborations, or just tech talk!
+
+- 📧 Email: dayanandrei114@gmail.com
+- 🌐 LinkedIn/GitHub: [add links here if available]
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
