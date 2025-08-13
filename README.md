@@ -1,6 +1,6 @@
 # 👋 Hi
 
-🎓 I'm **Jowell Andrei N. Dayan**, a 4th-year BS Computer Science student at **Colegio de San Juan de Letran Calamba**. Passionate about coding, solving real-world problems, and continuously learning new technologies.
+🎓 I'm **Jowell Andrei N. Dayan**, a graduate of BS Computer Science student at **Colegio de San Juan de Letran Calamba**. Passionate about coding, solving real-world problems, and continuously learning new technologies.
 
 ## 💻 Projects & Interests
 
@@ -11,7 +11,7 @@
 
 ## 🎯 Goals
 
-- ✅ Complete my On-the-Job Training (OJT)
+- ✅ Become a Full-stack developer
 - 🧠 Expand my programming skills and portfolio
 - 🤝 Collaborate on open-source or academic projects
 
